@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.mp3
+*.wav
+*.m4a
+*.pdf
+*.env
+.env
+.DS_Store
